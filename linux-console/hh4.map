@@ -1,0 +1,7 @@
+########################################################################
+# HH4 keymap by Hannu Hartikainen
+
+include "hh3.map"
+
+keycode  25 = semicolon colon
+keycode  39 = p

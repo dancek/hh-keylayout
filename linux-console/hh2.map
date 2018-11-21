@@ -1,0 +1,7 @@
+########################################################################
+# HH2 keymap by Hannu Hartikainen
+
+include "hh1.map"
+
+keycode  20 = f
+keycode  33 = t

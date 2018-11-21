@@ -1,0 +1,7 @@
+########################################################################
+# HH3 keymap by Hannu Hartikainen
+
+include "hh2.map"
+
+keycode  24 = d
+keycode  32 = o

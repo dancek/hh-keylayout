@@ -1,0 +1,7 @@
+########################################################################
+# HH1 keymap by Hannu Hartikainen
+
+include "hh0.map"
+
+keycode  36 = n
+keycode  49 = j

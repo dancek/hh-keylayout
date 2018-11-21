@@ -1,0 +1,24 @@
+########################################################################
+# HH0 keymap by Hannu Hartikainen
+#
+# QWERTY base for the HH[1-5] keymaps
+
+include "us.map"
+
+# Columns: plain, shift, altgr, shift+altgr
+keymaps 0-3
+
+########################################################################
+# HH* customizations
+
+# Caps lock: esc
+keycode  58 = Escape
+
+# Windows "menu" key: compose
+keycode 127 = Compose
+
+# ISO key: ä/ö
+keycode  86 = +adiaeresis +Adiaeresis +odiaeresis +Odiaeresis
+
+
+# TODO: proper international layout
