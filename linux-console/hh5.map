@@ -1,7 +1,7 @@
 ########################################################################
 # HH5 keymap by Hannu Hartikainen
 
-include "hh0.map"
+include "hh4.map"
 
 keycode  19 = k
 keycode  23 = r
